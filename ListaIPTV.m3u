@@ -3,5 +3,5 @@
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=T6kpzoOFx5xt0R48Vu8DlMmRTqhCq5dm&sid=5hiyO1owwDkStqFR1UHh1bjY4wQLICsc&pid=w2F2gs1gtfNekpKg7DY5BddyhTM5COHS&an=screen&at=web-app&av=v5.2.342&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=943x530&without_cookies=false&listenerid=&dnt=true&access_token=3x1b8BMUiPE2ubZpJRFrNdDGI2usqPHXOdZMUQ1JnmGtbcf4Uk0Nwjwlh7QE6HZNUk1YIzv3D6c
 #EXTINF:-2 tvg-id="channel2" tvg-name="Latina TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="TV",LatinaTV
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-#EXTINF:-3, tvg-id="channel3" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png", ID
+#EXTINF:-3, tvg-id="channel3" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV", ID
 http://190.128.222.77:4000/play/a0cj/index.m3u8
