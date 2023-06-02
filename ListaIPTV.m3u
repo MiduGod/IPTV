@@ -1,7 +1,289 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="channel1" tvg-name="America TV" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="TV",AmericaTV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=mEQP2cpLIpMqwhJz8UfSTJtdXQ4tMDTT&sid=aqV8rWf062OyKmvtlM8APi3BVriQNvpy&pid=YSNf62fynfvPNRvdr1ADyAmZHJWZa3Qh&an=screen&at=web-app&av=v5.2.342&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=943x530&without_cookies=false&listenerid=&dnt=true&access_token=ditacLPz2WnxcvnbfDk3AqErexleincmpCu0fXk6kb2p6GiwtdNURxd5i9koUQ7zq1YjjwYGNkO
-#EXTINF:-2 tvg-id="channel2" tvg-name="Latina TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="TV",LatinaTV
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-#EXTINF:-3, tvg-id="channel3" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV", ID
-http://190.128.222.77:4000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,11 - Repretel
+http://190.232.188.138:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,4 Repretel
+http://190.232.188.138:8000/play/a0hj/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,6 - Repretel
+http://190.232.188.138:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-id="AEHD" tvg-name="A&E HD",A&E HD
+http://190.232.188.138:8000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-id="AEhd" tvg-name="A&E HD",A&E HD
+http://190.232.188.138:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="aemundo" tvg-name="AE Mundo",AE Mundo
+http://190.232.188.138:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC",AMC
+http://190.232.188.138:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="AMCHD" tvg-name="AMC HD",AMC HD
+http://190.232.188.138:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,AMC HD
+http://190.232.188.138:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ATRES SERIES HD
+http://190.232.188.138:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ATV
+http://190.232.188.138:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV",ATV
+http://190.232.188.138:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
+http://190.232.188.138:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
+http://190.232.188.138:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN HD",AXN HD
+http://190.232.188.138:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN HD",AXN HD
+http://190.232.188.138:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,AZ Cinema HD
+http://190.232.188.138:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="AZclick" tvg-name="AZ click HD",AZ click HD
+http://190.232.188.138:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,America TV HD
+http://190.232.188.138:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="americatv" tvg-name="AmericaTV",AmericaTV
+http://190.232.188.138:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,AmØrica Televisiðn
+http://190.232.188.138:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="animal planet" tvg-name="Animal Planet",Animal Planet
+http://190.232.188.138:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetHD" tvg-name="Animal Planet HD",Animal Planet HD
+http://190.232.188.138:8000/play/a07v/index.m3u8
+#EXTINF:-1 tvg-id="antena3" tvg-name="Antena 3",Antena 3
+http://190.232.188.138:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="atresseries" tvg-name="Atres Series",Atres Series
+http://190.232.188.138:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="AzCorazon" tvg-name="Azcorazon",Azcorazon
+http://190.232.188.138:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="BBCWord" tvg-name="BBC World",BBC World
+http://190.232.188.138:8000/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="baby" tvg-name="BabyFirst",BabyFirst
+http://190.232.188.138:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CANAL 13 - NI
+http://190.232.188.138:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CDN2- RD
+http://190.232.188.138:8000/play/a0gr/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CDN37 - RD
+http://190.232.188.138:8000/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CHV HD
+http://190.232.188.138:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CINECANAL HD
+http://190.232.188.138:8000/play/a0hm/index.m3u8
+#EXTINF:-1 tvg-id="cnnchile" tvg-name="CNN Chile",CNN Chile
+http://190.232.188.138:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="cnnchile" tvg-name="CNN Chile HD",CNN Chile HD
+http://190.232.188.138:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="cnn espanol" tvg-name="CNN Espanol",CNN Espanol
+http://190.232.188.138:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="CNN internacional" tvg-name="CNN Internacional",CNN Internacional
+http://190.232.188.138:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNNE",CNNE
+http://190.232.188.138:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 1 HD
+http://190.232.188.138:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="canal10HD" tvg-name="Canal 10 HD - ESA",Canal 10 HD - ESA
+http://190.232.188.138:8000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 11 - GUA
+http://190.232.188.138:8000/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 13-GUA
+http://190.232.188.138:8000/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 14 - NIC
+http://190.232.188.138:8000/play/a0gp/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 19 ESA
+http://190.232.188.138:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 2 - ESA
+http://190.232.188.138:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 2 - NIC
+http://190.232.188.138:8000/play/a0he/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 3 - GUA
+http://190.232.188.138:8000/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 6 - ESA
+http://190.232.188.138:8000/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 6 - NI
+http://190.232.188.138:8000/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal 7 - GUA
+http://190.232.188.138:8000/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-id="Canal7HD" tvg-name="Canal 7 HD CR",Canal 7 HD CR
+http://190.232.188.138:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal Antigua - GUA
+http://190.232.188.138:8000/play/a0h6/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal Azteca - GUA
+http://190.232.188.138:8000/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-id="canalclaro" tvg-name="Canal Claro",Canal Claro
+http://190.232.188.138:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="canal estrellas" tvg-name="Canal Estrellas",Canal Estrellas
+http://190.232.188.138:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Canal N
+http://190.232.188.138:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,CanalNHD
+http://190.232.188.138:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Caracol HD
+http://190.232.188.138:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="cartoon" tvg-name="Cartoon Network",Cartoon Network
+http://190.232.188.138:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Cartoon Network HD
+http://190.232.188.138:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="CartooNito" tvg-name="Cartoonito",Cartoonito
+http://190.232.188.138:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="CineLAtino" tvg-name="Cine Latino",Cine Latino
+http://190.232.188.138:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="CineCcanal" tvg-name="CineCanal",CineCanal
+http://190.232.188.138:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="CineMax" tvg-name="CineMax",CineMax
+http://190.232.188.138:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal",Cinecanal
+http://190.232.188.138:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Cinecanal HD
+http://190.232.188.138:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax",Cinemax
+http://190.232.188.138:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Cinemax HD
+http://190.232.188.138:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="ClaroCinema" tvg-name="Claro Cinema",Claro Cinema
+http://190.232.188.138:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="ClaroMusic" tvg-name="Claro Musica",Claro Musica
+http://190.232.188.138:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="clarosport" tvg-name="Claro Sports",Claro Sports
+http://190.232.188.138:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="CloverHD" tvg-name="Clover HD",Clover HD
+http://190.232.188.138:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Color Vision 9 - RD
+http://190.232.188.138:8000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Comedy Central HD
+http://190.232.188.138:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="ConcertChannel" tvg-name="Concert Channel",Concert Channel
+http://190.232.188.138:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE",DHE
+http://190.232.188.138:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="DHEHD" tvg-name="DHE HD",DHE HD
+http://190.232.188.138:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,DHE HD
+http://190.232.188.138:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Digital 15 - RD
+http://190.232.188.138:8000/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel",Discovery Channel
+http://190.232.188.138:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Discovery H&H HD
+http://190.232.188.138:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Discovery HD
+http://190.232.188.138:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="DISHomeandHealth" tvg-name="Discovery Home & Health",Discovery Home & Health
+http://190.232.188.138:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryID" tvg-name="Discovery ID",Discovery ID
+http://190.232.188.138:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="DiscveryKids" tvg-name="Discovery Kids",Discovery Kids
+http://190.232.188.138:8000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="discovery kids" tvg-name="Discovery Kids",Discovery Kids
+http://190.232.188.138:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Discovery Kids HD
+http://190.232.188.138:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science",Discovery Science
+http://190.232.188.138:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Discovery Theater HD
+http://190.232.188.138:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="Discoveryturbo" tvg-name="Discovery Turbo",Discovery Turbo
+http://190.232.188.138:8000/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo",Discovery Turbo
+http://190.232.188.138:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Discovery World HD
+http://190.232.188.138:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney",Disney
+http://190.232.188.138:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel",Disney Channel
+http://190.232.188.138:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Disney HD
+http://190.232.188.138:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJR" tvg-name="Disney JR",Disney JR
+http://190.232.188.138:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr",Disney Jr
+http://190.232.188.138:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Eenterteiment" tvg-name="E Entertainment",E Entertainment
+http://190.232.188.138:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="Eentertaiment" tvg-name="E! Entertairment HD",E! Entertairment HD
+http://190.232.188.138:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,E! HD
+http://190.232.188.138:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN
+http://190.232.188.138:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN",ESPN
+http://190.232.188.138:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN +",ESPN +
+http://190.232.188.138:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2",ESPN 2
+http://190.232.188.138:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN 2 HD
+http://190.232.188.138:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="espn2latin" tvg-name="ESPN 2 Latin",ESPN 2 Latin
+http://190.232.188.138:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3",ESPN 3
+http://190.232.188.138:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3",ESPN 3
+http://190.232.188.138:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN 3 HD
+http://190.232.188.138:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN 4
+http://190.232.188.138:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4",ESPN 4
+http://190.232.188.138:8000/play/a08v/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN 4 HD
+http://190.232.188.138:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN EXTRA HD
+http://190.232.188.138:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN HD
+http://190.232.188.138:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN HD
+http://190.232.188.138:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,ESPN HD
+http://190.232.188.138:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN",EWTN
+http://190.232.188.138:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,El Gourmet
+http://190.232.188.138:8000/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-id="ElGorumet" tvg-name="El Gourmet",El Gourmet
+http://190.232.188.138:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,El Gourmet HD
+http://190.232.188.138:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="enlace" tvg-name="Enlace",Enlace
+http://190.232.188.138:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV" tvg-name="Esne TV",Esne TV
+http://190.232.188.138:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="EuropaHD" tvg-name="Europa HD",Europa HD
+http://190.232.188.138:8000/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="FoxSport2" tvg-name="FOX Sports 2",FOX Sports 2
+http://190.232.188.138:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,FOX Sports 2 HD
+http://190.232.188.138:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="fx" tvg-name="FX",FX
+http://190.232.188.138:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,FX HD
+http://190.232.188.138:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="FXHD" tvg-name="FX HD",FX HD
+http://190.232.188.138:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="Film & Arts",Film & Arts
+http://190.232.188.138:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="Film & arts HD",Film & arts HD
+http://190.232.188.138:8000/play/a07x/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Food Network HD
+http://190.232.188.138:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="FoxSport3" tvg-name="Fox Sport 3",Fox Sport 3
+http://190.232.188.138:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="FoxSport1" tvg-name="Fox Sports 1",Fox Sports 1
+http://190.232.188.138:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Fox Sports 1 HD
+http://190.232.188.138:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="FoxSporrt2" tvg-name="Fox Sports 2",Fox Sports 2
+http://190.232.188.138:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="FoxSport3" tvg-name="Fox Sports 3",Fox Sports 3
+http://190.232.188.138:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,Fox Sports 3 HD
+http://190.232.188.138:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="farnce24" tvg-name="France 24",France 24
+http://190.232.188.138:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,France 24 HD
+http://190.232.188.138:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-name="France24",France24
+http://190.232.188.138:8000/play/a07l/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,GLOBAL
+http://190.232.188.138:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="goltv" tvg-name="GOL TV",GOL TV
+http://190.232.188.138:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,GOLPERU
+http://190.232.188.138:8000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-name="#EXTINF:-1",#EXTINF:-1,GOLPERU HD
+http://190.232.188.138:8000/play/a05e/index.m3u8
