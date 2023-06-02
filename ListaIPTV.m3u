@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="channel1" tvg-name="America TV" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="TV",AmericaTV
-"https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=mEQP2cpLIpMqwhJz8UfSTJtdXQ4tMDTT&sid=aqV8rWf062OyKmvtlM8APi3BVriQNvpy&pid=9W3tbJOBqiLFXXjGScA9rcEkd1bHRCIu&an=screen&at=web-app&av=v5.2.342&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=943x530&without_cookies=false&listenerid=&dnt=true&access_token=UKuMDGpPvwUWQlNS5x0Vr8nPd2XIfmCUwTtpEjnbrrvXQWEoXy8gbeGfL3lrfFnNoi6urKyrudg
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=mEQP2cpLIpMqwhJz8UfSTJtdXQ4tMDTT&sid=aqV8rWf062OyKmvtlM8APi3BVriQNvpy&pid=YSNf62fynfvPNRvdr1ADyAmZHJWZa3Qh&an=screen&at=web-app&av=v5.2.342&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=943x530&without_cookies=false&listenerid=&dnt=true&access_token=ditacLPz2WnxcvnbfDk3AqErexleincmpCu0fXk6kb2p6GiwtdNURxd5i9koUQ7zq1YjjwYGNkO
 #EXTINF:-2 tvg-id="channel2" tvg-name="Latina TV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="TV",LatinaTV
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 #EXTINF:-3, tvg-id="channel3" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV", ID
