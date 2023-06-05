@@ -389,6 +389,12 @@ http://190.232.188.138:8000/play/a01p/index.m3u8
 http://190.232.188.138:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime" tvg-id="lifetime",Lifetime
 http://190.232.188.138:8000/play/a00l/index.m3u8
+#EXTINF:-1,tvg-name="LIGA MAX FHD" LIGA MAX FHD
+http://vplay.club:80/play/WDuZQfS4EG-w--smQpLOOYT2Dwc0TBWfer38GNtOp_ccTwUJz99_pn8iDIcCGhWp/ts
+#EXTINF:-1,tvg-name="LIGA MAX HD" LIGA MAX HD
+http://vplay.club:80/play/WDuZQfS4EG-w--smQpLOOYT2Dwc0TBWfer38GNtOp_cKdN1safjtx4Zrrhw-OsDe/ts
+#EXTINF:-1,tvg-name="LIGA MAX" LIGA MAX
+http://vplay.club:80/play/WDuZQfS4EG-w--smQpLOOYT2Dwc0TBWfer38GNtOp_dMbjV8Bqw3x_6W7VTshFNw/ts
 #EXTINF:-1 tvg-name="Love Nature HD",Love Nature HD
 http://190.232.188.138:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-name="MASTV - PAN",MASTV - PAN
